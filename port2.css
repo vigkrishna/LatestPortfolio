@@ -1,0 +1,119 @@
+.box2 {
+    text-align: calc();
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 79px;
+
+    color: #FFFFFF;
+
+}
+
+.box3 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+
+}
+
+.box4 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 90px;
+
+    color: #FFFFFF;
+}
+
+.sq1 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+}
+
+.sq2 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+}
+
+.sq3 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+}
+
+.sq4 {
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+}
+
+.btn {
+    background: #023047;
+    border: 1px solid #FB8500;
+    font-size: 23px;
+    padding: 10px 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+    
+}
+.button.btn.btn1{
+    left:-810px;
+    top:200px;
+}
+  
+/* Styling btn1, btn2 class */
+.btn1,
+.btn2 {
+    color: white;
+}
+  
+/* Creating animation effect */
+.btn1:hover,
+.btn2:hover {
+    color: #FB8500;
+}
+  
+.btn::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: white;
+    z-index: -1;
+    transition: 0.8s;
+}
+
+

@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.class1 {
+    position: absolute;
+    width: 604px;
+    height: 97px;
+    left: 341px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 75px;
+    line-height: 91px;
+    /* identical to box height */
+
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 1328px;
+    height: 97px;
+    left: 71px;
+    top: 0px;
+
+    background: #023047;
+
+
+}
+
+.child1 {
+    position: absolute;
+    width: 71px;
+    height: 98.5px;
+    left: -72px;
+    top: -1px;
+    background: #FB8500;
+}
+
+.child2 {
+    position: absolute;
+    width: 71px;
+    height: 98.5px;
+    left: 1329px;
+    top: -1px;
+    background: #FB8500;
+}
+
+.class2 {
+    position: absolute;
+    width: 975px;
+    height: 940px;
+    left: -5px;
+    top: 93px;
+
+    background: #5FA9EF;
+    background-blend-mode: darken;
+}
+
+.child5 {
+    position: absolute;
+    width: 407px;
+    height: 183px;
+    left: 86px;
+    top: 61px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+
+    color: #000000;
+}
+
+
+
+
+
+
+.child3 {
+
+
+
+    position: absolute;
+    width: 503px;
+    height: 940px;
+    left: 975px;
+    top: 0px;
+
+    background: #023047;
+}
+
+.child6 {
+    position: absolute;
+    width: 386px;
+    height: 769px;
+    left: 1011px;
+    top: 248px;
+
+}
+
+.box1 {
+    position: absolute;
+    width: 378px;
+    height: 92px;
+    left: 88px;
+    top: 277px;
+
+    background: #023047;
+
+
+}
+
+.box2 {
+    position: absolute;
+    width: 379px;
+    height: 90px;
+    left: 87px;
+    top: 368px;
+
+    background: #FB8500;
+}
+
+.box3 {
+    position: absolute;
+    width: 379px;
+    height: 94px;
+    left: 87px;
+    top: 458px;
+
+    background: #023047;
+}
+
+.box4 {
+    position: absolute;
+    width: 379px;
+    height: 92px;
+    left: 87px;
+    top: 552px;
+
+    background: #FB8500;
+}
+
+.sq1 {
+    position: absolute;
+    width: 198px;
+    height: 186px;
+    left: 521px;
+    top: 455px;
+
+    background: #FB8500;
+}
+
+.sq2 {
+    position: absolute;
+    width: 197px;
+    height: 178px;
+    left: 719px;
+    top: 277px;
+
+    background: #FB8500;
+}
+
+.sq3 {
+
+    position: absolute;
+    width: 199px;
+    height: 178px;
+    left: 521px;
+    top: 277px;
+
+    background: #023047;
+}
+
+.sq4 {
+    position: absolute;
+    width: 196px;
+    height: 186px;
+    left: 719px;
+    top: 455px;
+
+    background: #023047;
+}
+
+.heading1 {
+    position: absolute;
+    width: 204px;
+    height: 58px;
+    left: 102px;
+    top: 436px;
+
+    font-family: 'IM FELL Double Pica';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+}
+
+.box1 {
+    text-align: center;
+
+    font-family: 'IM FELL Double Pica';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+
+}
